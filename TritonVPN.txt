@@ -2,7 +2,7 @@ profile-update-interval: 1
 #profile-title: 🏳️ TritonVPN
 #profile-web-page-url:https://t.me/+ghH_zNdTcXY5ODBi
 #support-url:https://t.me/+ghH_zNdTcXY5ODBi 
-#announce: 🌟 Triton VPN лучший впн, скорость до 1гбит/с, белые списки-если блокируют LTE. Для белых списком рекомендую 3-6 сервер 🏳️ За свободный интернет!
+#announce: 🌟 Triton VPN лучший впн, скорость до 1гбит/с, белые списки-если блокируют LTE. Для белых списком рекомендую 3-6 сервер. Для подключение другого устройства нажмите где название кнопку телеграмма🏳️ За свободный интернет!
 #subscription-userinfo: upload=0; download=0; total=0; expire=2555555556057600
 
 vless://6be12417-ea40-47fa-938c-7d062e5d1434@95.163.183.12:443?security=reality&encryption=none&pbk=e1FuUA3j6fwHpNtwaJhKilSZIYxDnCSXsxzsKEDiHFY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%D0%91%D0%B5%D0%BB%D1%8B%D0%B9+%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%5B01%5D
