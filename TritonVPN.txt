@@ -1,4 +1,4 @@
-profile-update-interval: 1
+#profile-update-interval: 1
 #profile-title: 🏳️ TritonVPN
 #profile-web-page-url:https://t.me/+ghH_zNdTcXY5ODBi
 #support-url:https://t.me/+ghH_zNdTcXY5ODBi 
