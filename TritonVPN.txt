@@ -4,7 +4,7 @@
 #support-url:https://t.me/+ghH_zNdTcXY5ODBi 
 #announce: 🌟 Triton VPN лучший впн, скорость до 1гбит/с, белые списки-если блокируют LTE. Для белых списком рекомендую 3-6 сервер. Для подключение другого устройства нажмите где название кнопку телеграмма🏳️ За свободный интернет!
 #subscription-userinfo: upload=0; download=0; total=0; expire=25555555560576000
-
+vless://5a1ebb9e-4d11-4c9e-bb43-b5d35d3831fc@5.252.179.15:443?security=reality&encryption=none&echfq=none&pbk=XQB2zIgrhD8AtxgYFM8UiiWYt1sLVBLhMg1M4-sGMAY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=296f27de82dad7ff#%F0%9F%87%AA%F0%9F%87%BA%E2%9A%A1+%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80+VPNq
 vless://6be12417-ea40-47fa-938c-7d062e5d1434@146.185.241.223:443?security=reality&encryption=none&pbk=e1FuUA3j6fwHpNtwaJhKilSZIYxDnCSXsxzsKEDiHFY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%D0%91%D0%B5%D0%BB%D1%8B%D0%B9+%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+%5B05%5D
 vless://TMG_09d0fb4e595@138.124.67.66:443?mode=auto&path=%2FEBFgXW2C4-Jm&security=reality&encryption=none&pbk=t15wqvVznzlEGVr0r2cvdAvzgoeFf9U2Wf8lkV-CKCY&host=sun6-22.userapi.com&fp=firefox&spx=%2F&allowinsecure=0&type=xhttp&sni=sun6-22.userapi.com&sid=e6a51c772244759c#%D0%91%D0%B5%D0%BB%D1%8B%D0%B5+%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%5B06%5D
 
