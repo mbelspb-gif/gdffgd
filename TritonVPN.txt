@@ -18,7 +18,7 @@ vless://b87644ce-f927-4439-a4c2-23a5100e2f8a@217.16.22.2:8443?security=reality&e
 
 vless://ab52217c-e529-44d5-bf01-dd196de1deeb@89.105.212.142:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=auto.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#💎 Авто | Самый быстрый ⚡⚡️⚡️ 
 
-vless://ab52217c-e529-44d5-bf01-dd196de1deeb@89.105.212.141:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=auto.quattro-tech.ru&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#⬇️ Быстрые | до 10 Гбит/с ⬇️
+
 
 vless://ab52217c-e529-44d5-bf01-dd196de1deeb@109.69.218.48:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=be.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇧🇪 ⚡️ Бельгия
 
