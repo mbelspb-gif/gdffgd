@@ -2,10 +2,7 @@
 #profile-title: 🏳️ TritonVPN
 #profile-web-page-url:https://t.me/+ghH_zNdTcXY5ODBi
 #support-url:https://t.me/+ghH_zNdTcXY5ODBi 
-#announce:  ⚡ - быстрый сервер до 10 гбит/сек
-⭐ - для нейросетей
-🎮 - игровой сервер
-Белый список - обход глушилок, и предназначен для мобильного интернета
+#announce:  ⚡ - быстрый сервер до 10 гбит/сек ⭐ - для нейросетей.   🎮 - игровой сервер.     Белый список - обход глушилок, и предназначен для мобильного интернета
 
 #subscription-userinfo: upload=0; download=0; total=0; expire=25555555560576000
 vless://ab52217c-e529-44d5-bf01-dd196de1deeb@217.16.23.236:443?security=reality&encryption=none&echfq=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=43dcff53849b81e6#%F0%9F%87%B8%F0%9F%87%AA+%F0%9F%8E%AE+%E2%9A%A1%EF%B8%8F+%D0%91%D0%B5%D0%BB%D1%8B%D0%B9+%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA
