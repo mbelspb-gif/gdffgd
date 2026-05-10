@@ -1,4 +1,4 @@
-#profile-update-interval: 1
+we#profile-update-interval: 1
 #profile-title: 🏳️ Swordware V 4.5
 #profile-web-page-url: https://t.me/swordware
 #support-url: https://t.me/luckyqwertysay
@@ -20,6 +20,11 @@ vless://00a31b83-d78a-4866-9124-bf80ab961501@hisnd01.myxavpn.com:443?type=tcp&se
 vless://02093a1f-27df-4b74-94fb-ba21e6e26491@144.31.207.186:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&echfq=none&pbk=Kq9pHoX1LpxAqHEL5qF2WNR7yPnVC9hP5Da262tokVo&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=www.nvidia.com&sid=aec8#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B+%232%F0%9F%87%B3%F0%9F%87%B1
 vless://c55a51d9-48bd-11f1-941f-54db13ea7d40@37.49.227.189:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=randomized&pbk=USxaWDRKvJlZ-aHR-OGBT2XwVas2j4_1rhZCCfVNCBY&sid=#⚡🇳🇱 Нидерланды #3
 vless://c55a51d9-48bd-11f1-941f-54db13ea7d40@78.40.117.244:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.blocket.se&fp=randomized&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&sid=#🇸🇪 Швеция
+vless://dbaa10be-480b-4e3d-91cf-950dab5e6a70@il2.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=il2.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%AE%F0%9F%87%B1+%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C
+vless://dbaa10be-480b-4e3d-91cf-950dab5e6a70@in.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=in.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%AE%F0%9F%87%B3+%D0%98%D0%BD%D0%B4%D0%B8%D1%8F
+vless://dbaa10be-480b-4e3d-91cf-950dab5e6a70@tr.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tr.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%B9%F0%9F%87%B7+%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F
+vless://dbaa10be-480b-4e3d-91cf-950dab5e6a70@pl-01.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl-01.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
+vless://dbaa10be-480b-4e3d-91cf-950dab5e6a70@ee.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ee.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%AA%F0%9F%87%AA+%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
 
 vless://00a31b83-d78a-4866-9124-bf80ab961501@tur.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=tur.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇹🇷 Турция
 vless://00a31b83-d78a-4866-9124-bf80ab961501@usa02.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=usa02.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇺🇸 США
