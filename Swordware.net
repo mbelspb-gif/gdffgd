@@ -6,11 +6,16 @@ we#profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=255556057600
 vless://00000000-0000-0000-0000-000000000000@swordware.net:1?path=swordware&security=none&encryption=swordware&host=swordware&advancedfragment=c3dvcmR3YXJlLm5ldA==&type=httpupgrade#%D0%A2%D0%93+%D0%92%D0%9F%D0%9D%D0%90+%40SWORDWARE
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%E2%AC%87%EF%B8%8F%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%E2%AC%87%EF%B8%8F%40swordwarevless://00000000-0000-0000-0000-000000000000@swordware.net:1?path=swordware&security=none&encryption=swordware&host=swordware&advancedfragment=c3dvcmR3YXJlLm5ldA==&type=httpupgrade#%E2%AC%87%EF%B8%8F%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0+%D0%B8%D0%B7+%D0%B0%D0%B2%D1%82%D0%BE+%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%B0%E2%AC%87%EF%B8%8Fvless://5a1056f2-01f0-42f8-8db1-fdb1029c797e@216.227.157.28:50095?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&fp=chrome&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&sid=8517f57284f838d3#🇺🇸 США #1 |25 Гбит/сек
+vless://09428d82-84b0-4448-aa67-69158e9459ce@45.136.125.106:443?security=reality&encryption=none&echfq=none&pbk=TEOE7OWzJGrOxoJm0mVB2PbI_Ne7FmrPLoKLdNIjEwo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl01-geo.grani.site&sid=4b9c3e7a1d5f2860#%F0%9F%87%BA%F0%9F%87%B8+%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0+%E2%9A%A1%E2%9A%A1%E2%9A%A1
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@turksin.chickenkiller.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=turksin.chickenkiller.com&fp=chrome&pbk=GAU1Te58-JEF1-IOmTXtLWinhrI6yiWm6YoiMABOMXs&sid=24a94f2000b0b5ce#🇹🇷 Турция
+
 vless://02ca6335-4c91-412c-956f-f7f9e5630b6c@82.21.117.80:8443?type=tcp&encryption=none&security=reality&pbk=L2VtOai02jmb997VpQLln5A5nhSkk3y4rm4gydblT0Y&fp=chrome&sni=www.nvidia.com&sid=5741b97cc693bbcb&spx=%2F&flow=xtls-rprx-vision#🇩🇪 Германия
 
 vless://d12e5a22-8886-4f79-9d7c-7037913432e8@de.nitroo-tech.ru:443?echfq=none&fp=qq&type=grpc&serviceName=api&sni=www.apple.com&sid=52b93989ad2c9a&mode=gun&security=reality&encryption=none&authority=&pbk=SX_aqLgBQrF5DuxlktBophtmPhSA4bzKBg9fp91z3jE&spx=%2F&allowinsecure=0#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+2
 
 vless://02ca6335-4c91-412c-956f-f7f9e5630b6c@auracv.mooo.com:443?type=tcp&encryption=none&security=reality&pbk=pSv2YgSG2U8lx0Gauwcl9TF716E5dTEA6dliYmvsFmM&fp=chrome&sni=sub.auracv.mooo.com&sid=95d0285963ead574&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@velikobcxc.30x.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=velikobcxc.30x.ru&fp=chrome&pbk=brmwfpT4xq2AkSP20JZTU59jbYMNQ71t13atU5yU5FA&sid=33103f8c14808c9c#🇬🇧 Великобритания
+vless://4f2e21c2-9187-4ec8-b9e5-e17b775b3bda@fi.organic-cdn.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=fi.convexia.net&fp=chrome&pbk=jydkvpm6P7x3p5Ueco8tMR9b3XrbwRSyr445QpWrjTo&sid=563774#🇫🇮 Финляндия
 
 vless://02ca6335-4c91-412c-956f-f7f9e5630b6c@202.148.54.235:8443?type=tcp&encryption=none&security=reality&pbk=2LNiAngRpxCXLfo7n9IGjrRVAuioD6x_3yKnuo1NRCk&fp=chrome&sni=www.sony.com&sid=51ead5a51f22&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды 2
 
